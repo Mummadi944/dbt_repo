@@ -1,0 +1,14 @@
+sources:
+       - name: tbl
+         database: dbt_db
+         schema: dbt_sc
+         tables:
+                - name: sales
+                
+        
+
+
+       
+
+
+  
